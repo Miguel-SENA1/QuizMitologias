@@ -6,7 +6,7 @@
 }
 body {
     width: 100%;
-    background-image: url(/IMG/backs.png);
+    background-image: url(IMG/backs.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -17,7 +17,7 @@ body {
 #all {
     width: 360px;
     height: 720px;
-    background-image: url(/IMG/back.png);
+    background-image: url(IMG/back.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
